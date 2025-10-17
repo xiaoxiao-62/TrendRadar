@@ -7,6 +7,9 @@ gemini
 
 chatgpt
 openai
+claude
+英伟达
+NVIDIV
 
 金价
 
@@ -22,4 +25,4 @@ openai
 
 特朗普
 
-伊朗
+美联储
